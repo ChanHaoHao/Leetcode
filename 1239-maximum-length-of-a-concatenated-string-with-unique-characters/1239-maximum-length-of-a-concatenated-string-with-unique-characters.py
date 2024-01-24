@@ -6,7 +6,7 @@ class Solution:
         return result[0]
 
     def dfs(self, arr, path, idx, result):
-        # try if the path is unique
+        # try if the path is unique (start from the newly add)
         unique = True
         for x in range(len(path)-1, 0, -1):
             if path[x] in path[0:x]:
@@ -15,6 +15,7 @@ class Solution:
         if unique:
             result[0] = max(result[0], len(path))
 
+        # if it is at the end of the array or the current path contains duplicates
         if idx == len(arr) or not unique:
             return
 
