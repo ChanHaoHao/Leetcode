@@ -11,7 +11,7 @@ class Solution:
 
         # return lcs_length(text1, text2)
 
-        # starting from the end of the string (DP)
+        # starting from the end of the string (DP), check each subproblems step by step and heirachy the result
         def iter_lcs(text1, text2):
             arrayL = [[0] * (len(text2) + 1) for _ in range(len(text1) + 1)]
             for i in range(len(text1)-1, -1, -1):
