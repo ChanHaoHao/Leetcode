@@ -1,6 +1,6 @@
 class Solution:
     def gcdOfStrings(self, str1: str, str2: str) -> str:
-        # check the two strings are the same
+        # check the two strings are the same, so we don't need to check str2
         if str1 + str2 != str2 + str1:
             return ""
         
