@@ -45,8 +45,8 @@ class Solution:
             start_node = TreeNode(val, root, None)
             return start_node
         
-        # dfs(root, 1)
-        bfs()
+        dfs(root, 1)
+        # bfs()
 
         return root
             
