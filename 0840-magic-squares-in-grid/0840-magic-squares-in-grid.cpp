@@ -1,6 +1,14 @@
 class Solution {
 public:
     int numMagicSquaresInside(vector<vector<int>>& grid) {
+        /*
+        the rows, cols, and diags sum will be 15
+        possible sum==15 are
+        1+5+9 / 1+6+8 / 2+4+9 / 2+5+8 / 2+6+7
+        3+4+8 / 3+5+7 / 4+5+6
+        The number in the middle used 4 times, so it need to be 5
+        The number in the corners used 3 times, so it need to be even numbers
+        */
         int m=grid.size(), n=grid[0].size(), ans=0;
 
         for (int i=0; i<m-2; ++i)
