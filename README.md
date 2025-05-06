@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ChanHaoHao/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/ChanHaoHao/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ChanHaoHao/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3822-fill-a-special-grid](https://github.com/ChanHaoHao/Leetcode/tree/master/3822-fill-a-special-grid) |
 ## String
 |  |
 | ------- |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ChanHaoHao/Leetcode/tree/master/0169-majority-element) |
+| [3822-fill-a-special-grid](https://github.com/ChanHaoHao/Leetcode/tree/master/3822-fill-a-special-grid) |
 ## Stack
 |  |
 | ------- |
@@ -126,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ChanHaoHao/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [3822-fill-a-special-grid](https://github.com/ChanHaoHao/Leetcode/tree/master/3822-fill-a-special-grid) |
 ## Shortest Path
 |  |
 | ------- |
