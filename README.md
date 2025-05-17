@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/ChanHaoHao/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ChanHaoHao/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ChanHaoHao/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/ChanHaoHao/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/ChanHaoHao/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ChanHaoHao/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ChanHaoHao/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/ChanHaoHao/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Greedy
 |  |
 | ------- |
@@ -67,12 +69,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/ChanHaoHao/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/ChanHaoHao/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 | [2509-minimize-xor](https://github.com/ChanHaoHao/Leetcode/tree/master/2509-minimize-xor) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/ChanHaoHao/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/ChanHaoHao/Leetcode/tree/master/0169-majority-element) |
 | [1502-construct-k-palindrome-strings](https://github.com/ChanHaoHao/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ChanHaoHao/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/ChanHaoHao/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Two Pointers
 |  |
 | ------- |
@@ -85,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/ChanHaoHao/Leetcode/tree/master/0169-majority-element) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ChanHaoHao/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3859-maximum-product-of-two-digits](https://github.com/ChanHaoHao/Leetcode/tree/master/3859-maximum-product-of-two-digits) |
+| [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/ChanHaoHao/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Divide and Conquer
 |  |
 | ------- |
