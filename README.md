@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2792-neighboring-bitwise-xor](https://github.com/ChanHaoHao/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ChanHaoHao/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3822-fill-a-special-grid](https://github.com/ChanHaoHao/Leetcode/tree/master/3822-fill-a-special-grid) |
+| [3849-equal-sum-grid-partition-i](https://github.com/ChanHaoHao/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 ## String
 |  |
 | ------- |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ChanHaoHao/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [3849-equal-sum-grid-partition-i](https://github.com/ChanHaoHao/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 ## Trie
 |  |
 | ------- |
@@ -137,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ChanHaoHao/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [3822-fill-a-special-grid](https://github.com/ChanHaoHao/Leetcode/tree/master/3822-fill-a-special-grid) |
+| [3849-equal-sum-grid-partition-i](https://github.com/ChanHaoHao/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 ## Shortest Path
 |  |
 | ------- |
@@ -149,4 +152,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/ChanHaoHao/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [3849-equal-sum-grid-partition-i](https://github.com/ChanHaoHao/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 <!---LeetCode Topics End-->
