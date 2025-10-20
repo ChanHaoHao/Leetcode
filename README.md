@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0952-word-subsets](https://github.com/ChanHaoHao/Leetcode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/ChanHaoHao/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ChanHaoHao/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ChanHaoHao/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ChanHaoHao/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/ChanHaoHao/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ChanHaoHao/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ChanHaoHao/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Graph
 |  |
 | ------- |
@@ -163,10 +165,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ChanHaoHao/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ChanHaoHao/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3849-equal-sum-grid-partition-i](https://github.com/ChanHaoHao/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 ## Depth-First Search
 |  |
 | ------- |
+| [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ChanHaoHao/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [3845-maximum-sum-of-edge-values-in-a-graph](https://github.com/ChanHaoHao/Leetcode/tree/master/3845-maximum-sum-of-edge-values-in-a-graph) |
 <!---LeetCode Topics End-->
