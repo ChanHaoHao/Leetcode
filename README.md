@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2292-counting-words-with-a-given-prefix](https://github.com/ChanHaoHao/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ChanHaoHao/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ChanHaoHao/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ChanHaoHao/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/ChanHaoHao/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 ## Prefix Sum
 |  |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/ChanHaoHao/Leetcode/tree/master/0189-rotate-array) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ChanHaoHao/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/ChanHaoHao/Leetcode/tree/master/3859-maximum-product-of-two-digits) |
 ## Bit Manipulation
 |  |
@@ -162,6 +164,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/ChanHaoHao/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ChanHaoHao/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ChanHaoHao/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Enumeration
 |  |
 | ------- |
@@ -173,4 +176,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ChanHaoHao/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [3845-maximum-sum-of-edge-values-in-a-graph](https://github.com/ChanHaoHao/Leetcode/tree/master/3845-maximum-sum-of-edge-values-in-a-graph) |
+## Combinatorics
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ChanHaoHao/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Number Theory
+|  |
+| ------- |
+| [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ChanHaoHao/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 <!---LeetCode Topics End-->
