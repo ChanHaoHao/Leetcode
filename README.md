@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/ChanHaoHao/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3822-fill-a-special-grid](https://github.com/ChanHaoHao/Leetcode/tree/master/3822-fill-a-special-grid) |
 | [3849-equal-sum-grid-partition-i](https://github.com/ChanHaoHao/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
+| [4045-longest-balanced-subarray-i](https://github.com/ChanHaoHao/Leetcode/tree/master/4045-longest-balanced-subarray-i) |
 ## String
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ChanHaoHao/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [3849-equal-sum-grid-partition-i](https://github.com/ChanHaoHao/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
+| [4045-longest-balanced-subarray-i](https://github.com/ChanHaoHao/Leetcode/tree/master/4045-longest-balanced-subarray-i) |
 ## Trie
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ChanHaoHao/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ChanHaoHao/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/ChanHaoHao/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
+| [4045-longest-balanced-subarray-i](https://github.com/ChanHaoHao/Leetcode/tree/master/4045-longest-balanced-subarray-i) |
 ## Greedy
 |  |
 | ------- |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/ChanHaoHao/Leetcode/tree/master/0169-majority-element) |
 | [3822-fill-a-special-grid](https://github.com/ChanHaoHao/Leetcode/tree/master/3822-fill-a-special-grid) |
+| [4045-longest-balanced-subarray-i](https://github.com/ChanHaoHao/Leetcode/tree/master/4045-longest-balanced-subarray-i) |
 ## Stack
 |  |
 | ------- |
@@ -184,4 +188,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ChanHaoHao/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
+## Segment Tree
+|  |
+| ------- |
+| [4045-longest-balanced-subarray-i](https://github.com/ChanHaoHao/Leetcode/tree/master/4045-longest-balanced-subarray-i) |
 <!---LeetCode Topics End-->
