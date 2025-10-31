@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ChanHaoHao/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/ChanHaoHao/Leetcode/tree/master/2792-neighboring-bitwise-xor) |
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ChanHaoHao/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ChanHaoHao/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/ChanHaoHao/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3822-fill-a-special-grid](https://github.com/ChanHaoHao/Leetcode/tree/master/3822-fill-a-special-grid) |
 | [3849-equal-sum-grid-partition-i](https://github.com/ChanHaoHao/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/ChanHaoHao/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ChanHaoHao/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ChanHaoHao/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ChanHaoHao/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/ChanHaoHao/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/ChanHaoHao/Leetcode/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
 | [4045-longest-balanced-subarray-i](https://github.com/ChanHaoHao/Leetcode/tree/master/4045-longest-balanced-subarray-i) |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/ChanHaoHao/Leetcode/tree/master/0189-rotate-array) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/ChanHaoHao/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ChanHaoHao/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ChanHaoHao/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 | [3859-maximum-product-of-two-digits](https://github.com/ChanHaoHao/Leetcode/tree/master/3859-maximum-product-of-two-digits) |
 ## Bit Manipulation
