@@ -130,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ChanHaoHao/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/ChanHaoHao/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Math
 |  |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/ChanHaoHao/Leetcode/tree/master/0079-word-search) |
+| [0094-binary-tree-inorder-traversal](https://github.com/ChanHaoHao/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ChanHaoHao/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [3845-maximum-sum-of-edge-values-in-a-graph](https://github.com/ChanHaoHao/Leetcode/tree/master/3845-maximum-sum-of-edge-values-in-a-graph) |
 ## Combinatorics
@@ -220,4 +222,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/ChanHaoHao/Leetcode/tree/master/0079-word-search) |
+## Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ChanHaoHao/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/ChanHaoHao/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 <!---LeetCode Topics End-->
