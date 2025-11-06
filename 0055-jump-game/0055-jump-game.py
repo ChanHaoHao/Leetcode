@@ -1,17 +1,27 @@
 class Solution:
     def canJump(self, nums: List[int]) -> bool:
-        if len(nums)==1:
-            return True
-        queue = [(0, nums[0])]
-        n = len(nums)
+        # if len(nums)==1:
+        #     return True
+        # queue = [(0, nums[0])]
+        # n = len(nums)
 
-        while queue:
-            index, steps = queue.pop()
+        # while queue:
+        #     index, steps = queue.pop()
             
-            for i in range(1, steps+1):
-                if index+i>=n-1:
-                    return True
-                elif nums[index+i]!=0:
-                    queue.append((index+i, nums[index+i]))
+        #     for i in range(1, steps+1):
+        #         if index+i>=n-1:
+        #             return True
+        #         elif nums[index+i]!=0:
+        #             queue.append((index+i, nums[index+i]))
 
-        return False
+        # return False
+
+        gas = 0
+
+        for i in range(len(nums)):
+            if gas<0:
+                return False
+            
+            gas = max(gas, nums[i])
+            gas -= 1
+        return True
