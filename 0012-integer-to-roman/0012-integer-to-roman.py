@@ -1,10 +1,10 @@
 class Solution:
     def intToRoman(self, num: int) -> str:
+        # store the dict by index
         convert = {0: ["I", "V"], 1: ["X", "L"], 2: ["C", "D"], 3: ["M", "M"]}
 
-        ans = "M"*(num//1000)
-        num = num%1000
-        for i in range(3, -1, -1):
+        ans = ""
+        for i in range(4, -1, -1):
             if num//10**i!=0:
                 curr = num//10**i
                 if 1<=curr<=3:
