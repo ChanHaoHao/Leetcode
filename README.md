@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ChanHaoHao/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0036-valid-sudoku](https://github.com/ChanHaoHao/Leetcode/tree/master/0036-valid-sudoku) |
 | [0055-jump-game](https://github.com/ChanHaoHao/Leetcode/tree/master/0055-jump-game) |
+| [0068-text-justification](https://github.com/ChanHaoHao/Leetcode/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/ChanHaoHao/Leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/ChanHaoHao/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ChanHaoHao/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ChanHaoHao/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ChanHaoHao/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/ChanHaoHao/Leetcode/tree/master/0058-length-of-last-word) |
+| [0068-text-justification](https://github.com/ChanHaoHao/Leetcode/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/ChanHaoHao/Leetcode/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/ChanHaoHao/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0696-count-binary-substrings](https://github.com/ChanHaoHao/Leetcode/tree/master/0696-count-binary-substrings) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0068-text-justification](https://github.com/ChanHaoHao/Leetcode/tree/master/0068-text-justification) |
 | [2048-build-array-from-permutation](https://github.com/ChanHaoHao/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ChanHaoHao/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ChanHaoHao/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
