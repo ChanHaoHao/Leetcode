@@ -3,39 +3,31 @@ class Solution:
         """
         Do not return anything, modify board in-place instead.
         """
-        def check(x: int, y: int):
-            if board[x][y]:
-                num=-1
-            else:
-                num=0
-            for a in range(-1,2):
-                if x+a<0 or x+a>=height:
-                    continue
-                for b in range(-1,2):
-                    if y+b<0 or y+b>=width:
-                        continue
-                    num+=board[x+a][y+b]
-                    if num>3:
-                        return num
-            return num    
-                    
-        height = len(board)
-        width = len(board[0])
-        next_life = [[0 for x in range(width)] for y in range(height)]
+        
+        H, W = len(board), len(board[0])
+        die = []
+        reproduction = []
 
-        for x in range(height):
-            for y in range(width):
-                if board[x][y]:
-                    if check(x,y)<2:
-                        next_life[x][y]=0
-                    elif check(x,y)==2 or check(x,y)==3:
-                        next_life[x][y]=1
-                    else:
-                        next_life[x][y]=0
-                else:
-                    if check(x,y)==3:
-                        next_life[x][y]=1
-                        
-        for x in range(height):
-            for y in range(width):
-                board[x][y] = next_life[x][y]
+        for h in range(0, H):
+            for w in range(0, W):
+                neighbors = 0
+                for i in range(-1, 2):
+                    if h+i>-1 and h+i<H:
+                        for j in range(-1, 2):
+                            if w+j>-1 and w+j<W:
+                                neighbors += board[h+i][w+j]
+                
+                if board[h][w]==1:
+                    if neighbors<=2:
+                        die.append((h, w))
+                    elif neighbors>4:
+                        die.append((h, w))
+                elif neighbors==3:
+                    reproduction.append((h, w))
+        
+        for i in range(len(die)):
+            x, y = die[i]
+            board[x][y] = 0
+        for i in range(len(reproduction)):
+            x, y = reproduction[i]
+            board[x][y] = 1
