@@ -1,14 +1,26 @@
-class Solution:
-    def isIsomorphic(self, s: str, t: str) -> bool:
-        changeDict={}
-        usedT=[]
-        for x in range(len(s)):
-            if s[x] not in changeDict:
-                if t[x] in usedT:
+class Solution(object):
+    def isIsomorphic(self, s, t):
+        """
+        :type s: str
+        :type t: str
+        :rtype: bool
+        """
+        
+        hash_map = {}
+        mapped = set()
+        n = len(s)
+
+        for i in range(n):
+            if s[i] not in hash_map:
+                if t[i] not in mapped:
+                    hash_map[s[i]] = t[i]
+                    mapped.add(t[i])
+                else:
                     return False
-                changeDict[s[x]]=t[x]
-                usedT.append(t[x])
+            elif s[i] in hash_map:
+                if hash_map[s[i]] != t[i]:
+                    return False
             else:
-                if changeDict[s[x]]!=t[x]:
-                    return False
+                return False
+        
         return True
