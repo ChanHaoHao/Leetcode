@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/ChanHaoHao/Leetcode/tree/master/0068-text-justification) |
 | [0079-word-search](https://github.com/ChanHaoHao/Leetcode/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/ChanHaoHao/Leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0205-isomorphic-strings](https://github.com/ChanHaoHao/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/ChanHaoHao/Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/ChanHaoHao/Leetcode/tree/master/0392-is-subsequence) |
 | [0696-count-binary-substrings](https://github.com/ChanHaoHao/Leetcode/tree/master/0696-count-binary-substrings) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0073-set-matrix-zeroes](https://github.com/ChanHaoHao/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0128-longest-consecutive-sequence](https://github.com/ChanHaoHao/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ChanHaoHao/Leetcode/tree/master/0169-majority-element) |
+| [0205-isomorphic-strings](https://github.com/ChanHaoHao/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/ChanHaoHao/Leetcode/tree/master/0383-ransom-note) |
 | [0952-word-subsets](https://github.com/ChanHaoHao/Leetcode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/ChanHaoHao/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
