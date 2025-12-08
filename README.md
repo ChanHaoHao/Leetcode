@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/ChanHaoHao/Leetcode/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/ChanHaoHao/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ChanHaoHao/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/ChanHaoHao/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ChanHaoHao/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/ChanHaoHao/Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/ChanHaoHao/Leetcode/tree/master/0392-is-subsequence) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/ChanHaoHao/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ChanHaoHao/Leetcode/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/ChanHaoHao/Leetcode/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/ChanHaoHao/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ChanHaoHao/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/ChanHaoHao/Leetcode/tree/master/0383-ransom-note) |
 | [0952-word-subsets](https://github.com/ChanHaoHao/Leetcode/tree/master/0952-word-subsets) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ChanHaoHao/Leetcode/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/ChanHaoHao/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ChanHaoHao/Leetcode/tree/master/0169-majority-element) |
+| [0242-valid-anagram](https://github.com/ChanHaoHao/Leetcode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/ChanHaoHao/Leetcode/tree/master/0274-h-index) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ChanHaoHao/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/ChanHaoHao/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
