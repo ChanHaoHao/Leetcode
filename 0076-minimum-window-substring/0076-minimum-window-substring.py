@@ -1,37 +1,33 @@
-class Solution:
-    def minWindow(self, s: str, t: str) -> str:
-        if t=="":
-            return ""
+class Solution(object):
+    def minWindow(self, s, t):
+        """
+        :type s: str
+        :type t: str
+        :rtype: str
+        """
+        t_count = defaultdict(int)
+        for sub in t:
+            t_count[sub] += 1
 
-        # use count, curr as a hashmap to store elements
-        count, curr ={}, {}
-        for x in t:
-            count[x] = 1+count.get(x, 0)
+        count = len(t_count)
+        n = len(s)
+        l, r = 0, 0
+        ans = ""
         
-        # use left, right as two pointers
-        # store the different elements in meet_require
-        meet_require, required = 0, len(count)
-        left, ans= 0, [0, float("inf")] 
-        for right in range(len(s)):
-            char = s[right]
-            if char in count:
-                curr[char] = 1+curr.get(char, 0)
-                # if the require is met
-                if curr[char]==count[char]:
-                    meet_require += 1
-                    # start moving the left pointer to make the string smaller
-                    while meet_require==required:
-                        if (right-left+1)<ans[1]-ans[0]+1:
-                            ans = [left, right]
-
-                        if s[left] in count:
-                            curr[s[left]] -= 1
-                            if curr[s[left]]<count[s[left]]:
-                                meet_require -= 1
-                        left += 1
+        while r<n:
+            t_count[s[r]] -= 1
+            if t_count[s[r]] == 0:
+                count -= 1
+            
+            if count==0:
+                while count==0:
+                    if len(ans)==0 or len(ans)>r-l+1:
+                        ans = s[l:r+1]
+                    t_count[s[l]] += 1
+                    if t_count[s[l]] > 0:
+                        count += 1
+                    
+                    l += 1
+            r += 1
         
-        if ans[1]!=float("inf"):
-            return s[ans[0]:ans[1]+1]
-        return ""        
-
-                
+        return ans
