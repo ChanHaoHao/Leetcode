@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/ChanHaoHao/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/ChanHaoHao/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/ChanHaoHao/Leetcode/tree/master/0169-majority-element) |
+| [0202-happy-number](https://github.com/ChanHaoHao/Leetcode/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/ChanHaoHao/Leetcode/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/ChanHaoHao/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ChanHaoHao/Leetcode/tree/master/0290-word-pattern) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/ChanHaoHao/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChanHaoHao/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ChanHaoHao/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/ChanHaoHao/Leetcode/tree/master/0202-happy-number) |
 | [0392-is-subsequence](https://github.com/ChanHaoHao/Leetcode/tree/master/0392-is-subsequence) |
 | [0696-count-binary-substrings](https://github.com/ChanHaoHao/Leetcode/tree/master/0696-count-binary-substrings) |
 ## Sorting
@@ -190,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/ChanHaoHao/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ChanHaoHao/Leetcode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/ChanHaoHao/Leetcode/tree/master/0189-rotate-array) |
+| [0202-happy-number](https://github.com/ChanHaoHao/Leetcode/tree/master/0202-happy-number) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/ChanHaoHao/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ChanHaoHao/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ChanHaoHao/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
