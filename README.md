@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ChanHaoHao/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/ChanHaoHao/Leetcode/tree/master/0015-3sum) |
 | [0036-valid-sudoku](https://github.com/ChanHaoHao/Leetcode/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/ChanHaoHao/Leetcode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/ChanHaoHao/Leetcode/tree/master/0055-jump-game) |
 | [0068-text-justification](https://github.com/ChanHaoHao/Leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/ChanHaoHao/Leetcode/tree/master/0073-set-matrix-zeroes) |
@@ -48,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/ChanHaoHao/Leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ChanHaoHao/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ChanHaoHao/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0049-group-anagrams](https://github.com/ChanHaoHao/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ChanHaoHao/Leetcode/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/ChanHaoHao/Leetcode/tree/master/0068-text-justification) |
 | [0076-minimum-window-substring](https://github.com/ChanHaoHao/Leetcode/tree/master/0076-minimum-window-substring) |
@@ -105,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/ChanHaoHao/Leetcode/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/ChanHaoHao/Leetcode/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0036-valid-sudoku](https://github.com/ChanHaoHao/Leetcode/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/ChanHaoHao/Leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/ChanHaoHao/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/ChanHaoHao/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/ChanHaoHao/Leetcode/tree/master/0128-longest-consecutive-sequence) |
@@ -160,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/ChanHaoHao/Leetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/ChanHaoHao/Leetcode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/ChanHaoHao/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/ChanHaoHao/Leetcode/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/ChanHaoHao/Leetcode/tree/master/0242-valid-anagram) |
