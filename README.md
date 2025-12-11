@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChanHaoHao/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/ChanHaoHao/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/ChanHaoHao/Leetcode/tree/master/0189-rotate-array) |
+| [0200-number-of-islands](https://github.com/ChanHaoHao/Leetcode/tree/master/0200-number-of-islands) |
 | [0219-contains-duplicate-ii](https://github.com/ChanHaoHao/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/ChanHaoHao/Leetcode/tree/master/0228-summary-ranges) |
 | [0238-product-of-array-except-self](https://github.com/ChanHaoHao/Leetcode/tree/master/0238-product-of-array-except-self) |
@@ -229,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/ChanHaoHao/Leetcode/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ChanHaoHao/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ChanHaoHao/Leetcode/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/ChanHaoHao/Leetcode/tree/master/0200-number-of-islands) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ChanHaoHao/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ChanHaoHao/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 ## Graph
@@ -246,6 +248,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0036-valid-sudoku](https://github.com/ChanHaoHao/Leetcode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/ChanHaoHao/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0079-word-search](https://github.com/ChanHaoHao/Leetcode/tree/master/0079-word-search) |
+| [0200-number-of-islands](https://github.com/ChanHaoHao/Leetcode/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/ChanHaoHao/Leetcode/tree/master/0289-game-of-life) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ChanHaoHao/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [3822-fill-a-special-grid](https://github.com/ChanHaoHao/Leetcode/tree/master/3822-fill-a-special-grid) |
@@ -278,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/ChanHaoHao/Leetcode/tree/master/0101-symmetric-tree) |
 | [0111-minimum-depth-of-binary-tree](https://github.com/ChanHaoHao/Leetcode/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/ChanHaoHao/Leetcode/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/ChanHaoHao/Leetcode/tree/master/0200-number-of-islands) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ChanHaoHao/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [3845-maximum-sum-of-edge-values-in-a-graph](https://github.com/ChanHaoHao/Leetcode/tree/master/3845-maximum-sum-of-edge-values-in-a-graph) |
 ## Combinatorics
@@ -297,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/ChanHaoHao/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0200-number-of-islands](https://github.com/ChanHaoHao/Leetcode/tree/master/0200-number-of-islands) |
 ## Backtracking
 |  |
 | ------- |
