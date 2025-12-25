@@ -61,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/ChanHaoHao/Leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/ChanHaoHao/Leetcode/tree/master/0058-length-of-last-word) |
 | [0068-text-justification](https://github.com/ChanHaoHao/Leetcode/tree/master/0068-text-justification) |
+| [0071-simplify-path](https://github.com/ChanHaoHao/Leetcode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/ChanHaoHao/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/ChanHaoHao/Leetcode/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/ChanHaoHao/Leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -200,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/ChanHaoHao/Leetcode/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/ChanHaoHao/Leetcode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ChanHaoHao/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/ChanHaoHao/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Math
