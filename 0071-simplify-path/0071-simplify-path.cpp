@@ -1,52 +1,46 @@
 class Solution {
 public:
     string simplifyPath(string path) {
-        vector<string> sub_paths;
-        string sub_path = "";
+        stack<string> paths;
 
-        for (auto & i: path)
+        // Traverse through the path
+        for (int i=0; i<path.size(); i++)
         {
-            if (i=='/')
+            // Don't do anything if at "/"
+            if (path[i]=='/')
+                continue;
+            
+            // Use sub_path to store path between "/"
+            string sub_path = "";
+            while (i<path.size() && path[i]!='/')
             {
-                if (sub_path.length()!=0)
-                {
-                    if (sub_path.length()==1 && sub_path=="."){}
-                    else if (sub_path.length()==2 && sub_path=="..")
-                    {
-                        if (sub_paths.size()>0)
-                        {
-                            sub_paths.pop_back();
-                        }
-                    }
-                    else
-                    {
-                        sub_paths.push_back(sub_path);
-                    }
-                    sub_path = "";
-                }
+                sub_path += path[i];
+                i++;
+            }
+
+            // Don't do anything if sub_path=="."
+            if (sub_path==".")
+                continue;
+            // Pop paths if sub_path==".." when paths is not empty
+            else if (sub_path=="..")
+            {
+                if (!paths.empty())
+                    paths.pop();
             }
             else
-                sub_path += i;
+                paths.push(sub_path);
         }
 
-        if (sub_path.length()==1 && sub_path=="."){}
-        else if (sub_path.length()==2 && sub_path=="..")
+        string ans = "";
+        // Since stack if FILO, so we add the top to the front of ans
+        while (!paths.empty())
         {
-            if (sub_paths.size()>0)
-                sub_paths.pop_back();
-        }
-        else if (sub_path.length()>0)
-            sub_paths.push_back(sub_path);
-
-        string ans = "/";
-        for (auto & s: sub_paths)
-        {
-            cout << s << endl;
-            ans += s + "/";
+            ans = "/" + paths.top() + ans;
+            paths.pop();
         }
 
-        if (ans.length()>1)
-            return ans.substr(0, ans.size()-1);
+        if (ans.size()==0)
+            return "/";
         return ans;
     }
 };
