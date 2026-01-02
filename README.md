@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/ChanHaoHao/Leetcode/tree/master/0289-game-of-life) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ChanHaoHao/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/ChanHaoHao/Leetcode/tree/master/0485-max-consecutive-ones) |
+| [0645-set-mismatch](https://github.com/ChanHaoHao/Leetcode/tree/master/0645-set-mismatch) |
 | [0952-word-subsets](https://github.com/ChanHaoHao/Leetcode/tree/master/0952-word-subsets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ChanHaoHao/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1470-shuffle-the-array](https://github.com/ChanHaoHao/Leetcode/tree/master/1470-shuffle-the-array) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ChanHaoHao/Leetcode/tree/master/0242-valid-anagram) |
 | [0290-word-pattern](https://github.com/ChanHaoHao/Leetcode/tree/master/0290-word-pattern) |
 | [0383-ransom-note](https://github.com/ChanHaoHao/Leetcode/tree/master/0383-ransom-note) |
+| [0645-set-mismatch](https://github.com/ChanHaoHao/Leetcode/tree/master/0645-set-mismatch) |
 | [0952-word-subsets](https://github.com/ChanHaoHao/Leetcode/tree/master/0952-word-subsets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ChanHaoHao/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [1502-construct-k-palindrome-strings](https://github.com/ChanHaoHao/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/ChanHaoHao/Leetcode/tree/master/0242-valid-anagram) |
 | [0274-h-index](https://github.com/ChanHaoHao/Leetcode/tree/master/0274-h-index) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ChanHaoHao/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0645-set-mismatch](https://github.com/ChanHaoHao/Leetcode/tree/master/0645-set-mismatch) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ChanHaoHao/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/ChanHaoHao/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
 | [3845-maximum-sum-of-edge-values-in-a-graph](https://github.com/ChanHaoHao/Leetcode/tree/master/3845-maximum-sum-of-edge-values-in-a-graph) |
@@ -225,6 +228,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0645-set-mismatch](https://github.com/ChanHaoHao/Leetcode/tree/master/0645-set-mismatch) |
 | [2509-minimize-xor](https://github.com/ChanHaoHao/Leetcode/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ChanHaoHao/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ChanHaoHao/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
