@@ -3,10 +3,16 @@ public:
     vector<int> shuffle(vector<int>& nums, int n) {
         vector<int> ans(n*2);
 
-        for (int i=0; i<n; i++)
+        int front=0, back=n, i=0;
+        while (i<n*2)
         {
-            ans[i*2] = nums[i];
-            ans[i*2+1] = nums[i+n];
+            ans[i] = nums[front];
+            ++i;
+            ans[i] = nums[back];
+            ++i;
+
+            ++front;
+            ++back;
         }
 
         return ans;
