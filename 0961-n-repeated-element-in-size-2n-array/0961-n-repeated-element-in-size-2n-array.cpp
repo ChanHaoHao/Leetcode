@@ -1,21 +1,14 @@
 class Solution {
 public:
     int repeatedNTimes(vector<int>& nums) {
-        int n = nums.size()/2;
-        unordered_map<int, int> count;
-
-        for (auto i: nums)
+        // since there are n distinct numbers, and nums have n*2 numbers
+        // only one number we be repeated
+        unordered_set<int> seen;
+        for (int n: nums)
         {
-            if (count.find(i)==count.end())
-            {
-                count[i] = 1;
-            }
-            else
-            {
-                count[i] += 1;
-                if (count[i]==n)
-                    return i;
-            }
+            if (seen.count(n))
+                return n;
+            seen.insert(n);
         }
 
         return -1;
