@@ -266,6 +266,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/ChanHaoHao/Leetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/ChanHaoHao/Leetcode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/ChanHaoHao/Leetcode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/ChanHaoHao/Leetcode/tree/master/0207-course-schedule) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ChanHaoHao/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ChanHaoHao/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ChanHaoHao/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -326,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0130-surrounded-regions](https://github.com/ChanHaoHao/Leetcode/tree/master/0130-surrounded-regions) |
 | [0133-clone-graph](https://github.com/ChanHaoHao/Leetcode/tree/master/0133-clone-graph) |
 | [0200-number-of-islands](https://github.com/ChanHaoHao/Leetcode/tree/master/0200-number-of-islands) |
+| [0207-course-schedule](https://github.com/ChanHaoHao/Leetcode/tree/master/0207-course-schedule) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ChanHaoHao/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [3845-maximum-sum-of-edge-values-in-a-graph](https://github.com/ChanHaoHao/Leetcode/tree/master/3845-maximum-sum-of-edge-values-in-a-graph) |
 ## Combinatorics
@@ -391,4 +393,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/ChanHaoHao/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/ChanHaoHao/Leetcode/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/ChanHaoHao/Leetcode/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
