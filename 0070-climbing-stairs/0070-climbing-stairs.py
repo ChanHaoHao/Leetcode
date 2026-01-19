@@ -1,22 +1,11 @@
 class Solution:
     def climbStairs(self, n: int) -> int:
-        # ans=0
-
-        # def multi(num):
-        #     ans=1
-        #     for x in range(2, num+1):
-        #         ans*=x
-        #     return ans
-
-        # m=n//2
-        # for x in range(m+1):
-        #     tmp=1
-        #     ones=n-x*2
-        #     ans+=multi(ones+x)/(multi(ones)*multi(x))
-        # return int(ans)
-
-        #Dynamic Programming, bottom-up method
-        first, second=1, 1
-        for x in range(n-1):
-            first, second=first+second, first
-        return first
+        if n<=3:
+            return n
+        
+        dp = [0]*n
+        dp[0] = 1
+        dp[1] = 2
+        for i in range(2, n):
+            dp[i] = dp[i-1] + dp[i-2]
+        return dp[-1]
