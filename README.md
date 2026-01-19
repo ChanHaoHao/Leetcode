@@ -236,6 +236,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/ChanHaoHao/Leetcode/tree/master/0202-happy-number) |
 | [0973-k-closest-points-to-origin](https://github.com/ChanHaoHao/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/ChanHaoHao/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
+| [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/ChanHaoHao/Leetcode/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ChanHaoHao/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ChanHaoHao/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ChanHaoHao/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -257,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ChanHaoHao/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ChanHaoHao/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/ChanHaoHao/Leetcode/tree/master/0392-is-subsequence) |
+| [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/ChanHaoHao/Leetcode/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 ## Brainteaser
 |  |
 | ------- |
