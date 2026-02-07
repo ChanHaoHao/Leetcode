@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/ChanHaoHao/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1094-car-pooling](https://github.com/ChanHaoHao/Leetcode/tree/master/1094-car-pooling) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/ChanHaoHao/Leetcode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/ChanHaoHao/Leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ChanHaoHao/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/ChanHaoHao/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ChanHaoHao/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -303,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/ChanHaoHao/Leetcode/tree/master/0322-coin-change) |
 | [0994-rotting-oranges](https://github.com/ChanHaoHao/Leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ChanHaoHao/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/ChanHaoHao/Leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ChanHaoHao/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1631-path-with-minimum-effort](https://github.com/ChanHaoHao/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ChanHaoHao/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -333,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/ChanHaoHao/Leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ChanHaoHao/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/ChanHaoHao/Leetcode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
+| [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/ChanHaoHao/Leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ChanHaoHao/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1631-path-with-minimum-effort](https://github.com/ChanHaoHao/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1975-maximum-matrix-sum](https://github.com/ChanHaoHao/Leetcode/tree/master/1975-maximum-matrix-sum) |
