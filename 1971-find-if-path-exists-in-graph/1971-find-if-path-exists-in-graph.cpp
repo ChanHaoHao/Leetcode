@@ -1,21 +1,5 @@
 class Solution {
 public:
-    bool dfs(unordered_map<int, vector<int>>& mp, unordered_set<int>& visited, int source, int destination) {
-        // iterate through all the neighbors of source
-        for (auto it=mp[source].begin(); it<mp[source].end(); ++it) {
-            // if the neighbor is not visited before
-            if (visited.find(*it) == visited.end()) {
-                visited.insert(*it);
-                if (*it == destination)
-                    return true;
-                else if (dfs(mp, visited, *it, destination))
-                    return true;
-            }
-        }
-
-        return false;
-    }
-
     bool validPath(int n, vector<vector<int>>& edges, int source, int destination) {
         if (source == destination) return true;
         // Store all valid paths into mp
@@ -27,6 +11,26 @@ public:
         }
 
         unordered_set<int> visited;
-        return dfs(mp, visited, source, destination);
+        queue<int> q;
+        q.push(source);
+        visited.insert(source);
+
+        while (!q.empty()) {
+            int nxt = q.front();
+            q.pop();
+
+            if (nxt == destination)
+                return true;
+
+            for (auto it=mp[nxt].begin(); it<mp[nxt].end(); ++it) {
+                // if not visited before
+                if (visited.find(*it) == visited.end()) {
+                    q.push(*it);
+                    visited.insert(*it);
+                }
+            }
+        }
+
+        return false;
     }
 };
