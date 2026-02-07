@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0952-word-subsets](https://github.com/ChanHaoHao/Leetcode/tree/master/0952-word-subsets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ChanHaoHao/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
 | [0973-k-closest-points-to-origin](https://github.com/ChanHaoHao/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [0994-rotting-oranges](https://github.com/ChanHaoHao/Leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ChanHaoHao/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1094-car-pooling](https://github.com/ChanHaoHao/Leetcode/tree/master/1094-car-pooling) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/ChanHaoHao/Leetcode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
@@ -294,6 +295,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ChanHaoHao/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ChanHaoHao/Leetcode/tree/master/0207-course-schedule) |
 | [0322-coin-change](https://github.com/ChanHaoHao/Leetcode/tree/master/0322-coin-change) |
+| [0994-rotting-oranges](https://github.com/ChanHaoHao/Leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ChanHaoHao/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ChanHaoHao/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ChanHaoHao/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
@@ -320,6 +322,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ChanHaoHao/Leetcode/tree/master/0200-number-of-islands) |
 | [0289-game-of-life](https://github.com/ChanHaoHao/Leetcode/tree/master/0289-game-of-life) |
 | [0832-flipping-an-image](https://github.com/ChanHaoHao/Leetcode/tree/master/0832-flipping-an-image) |
+| [0994-rotting-oranges](https://github.com/ChanHaoHao/Leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ChanHaoHao/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/ChanHaoHao/Leetcode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ChanHaoHao/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
