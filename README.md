@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/ChanHaoHao/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ChanHaoHao/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1094-car-pooling](https://github.com/ChanHaoHao/Leetcode/tree/master/1094-car-pooling) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/ChanHaoHao/Leetcode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ChanHaoHao/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/ChanHaoHao/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ChanHaoHao/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
@@ -152,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0645-set-mismatch](https://github.com/ChanHaoHao/Leetcode/tree/master/0645-set-mismatch) |
 | [0952-word-subsets](https://github.com/ChanHaoHao/Leetcode/tree/master/0952-word-subsets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ChanHaoHao/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/ChanHaoHao/Leetcode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ChanHaoHao/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/ChanHaoHao/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ChanHaoHao/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
@@ -317,6 +319,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/ChanHaoHao/Leetcode/tree/master/0289-game-of-life) |
 | [0832-flipping-an-image](https://github.com/ChanHaoHao/Leetcode/tree/master/0832-flipping-an-image) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ChanHaoHao/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/ChanHaoHao/Leetcode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ChanHaoHao/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1975-maximum-matrix-sum](https://github.com/ChanHaoHao/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [3822-fill-a-special-grid](https://github.com/ChanHaoHao/Leetcode/tree/master/3822-fill-a-special-grid) |
@@ -332,6 +335,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/ChanHaoHao/Leetcode/tree/master/0289-game-of-life) |
 | [0832-flipping-an-image](https://github.com/ChanHaoHao/Leetcode/tree/master/0832-flipping-an-image) |
 | [1094-car-pooling](https://github.com/ChanHaoHao/Leetcode/tree/master/1094-car-pooling) |
+| [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/ChanHaoHao/Leetcode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1929-concatenation-of-array](https://github.com/ChanHaoHao/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2048-build-array-from-permutation](https://github.com/ChanHaoHao/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ChanHaoHao/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
