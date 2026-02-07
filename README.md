@@ -290,6 +290,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1091-shortest-path-in-binary-matrix](https://github.com/ChanHaoHao/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ChanHaoHao/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ChanHaoHao/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1971-find-if-path-exists-in-graph](https://github.com/ChanHaoHao/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph
 |  |
 | ------- |
@@ -351,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/ChanHaoHao/Leetcode/tree/master/0200-number-of-islands) |
 | [0207-course-schedule](https://github.com/ChanHaoHao/Leetcode/tree/master/0207-course-schedule) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ChanHaoHao/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
+| [1971-find-if-path-exists-in-graph](https://github.com/ChanHaoHao/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [3845-maximum-sum-of-edge-values-in-a-graph](https://github.com/ChanHaoHao/Leetcode/tree/master/3845-maximum-sum-of-edge-values-in-a-graph) |
 ## Combinatorics
 |  |
@@ -421,6 +423,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/ChanHaoHao/Leetcode/tree/master/0207-course-schedule) |
+| [1971-find-if-path-exists-in-graph](https://github.com/ChanHaoHao/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Topological Sort
 |  |
 | ------- |
@@ -433,4 +436,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0853-car-fleet](https://github.com/ChanHaoHao/Leetcode/tree/master/0853-car-fleet) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/ChanHaoHao/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
