@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2048-build-array-from-permutation](https://github.com/ChanHaoHao/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ChanHaoHao/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ChanHaoHao/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/ChanHaoHao/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/ChanHaoHao/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/ChanHaoHao/Leetcode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ChanHaoHao/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -263,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0973-k-closest-points-to-origin](https://github.com/ChanHaoHao/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/ChanHaoHao/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/ChanHaoHao/Leetcode/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/ChanHaoHao/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ChanHaoHao/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ChanHaoHao/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ChanHaoHao/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -362,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/ChanHaoHao/Leetcode/tree/master/1929-concatenation-of-array) |
 | [2048-build-array-from-permutation](https://github.com/ChanHaoHao/Leetcode/tree/master/2048-build-array-from-permutation) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/ChanHaoHao/Leetcode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/ChanHaoHao/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ChanHaoHao/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Enumeration
 |  |
@@ -393,6 +396,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/ChanHaoHao/Leetcode/tree/master/0062-unique-paths) |
+| [2221-find-triangular-sum-of-an-array](https://github.com/ChanHaoHao/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ChanHaoHao/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3768-check-if-digits-are-equal-in-string-after-operations-i](https://github.com/ChanHaoHao/Leetcode/tree/master/3768-check-if-digits-are-equal-in-string-after-operations-i) |
 ## Number Theory
