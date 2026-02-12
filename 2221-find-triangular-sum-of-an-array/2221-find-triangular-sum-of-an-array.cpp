@@ -1,21 +1,13 @@
 class Solution {
 public:
     int triangularSum(vector<int>& nums) {
-        queue<int> q;
-
-        for (int n: nums)
-            q.push(n);
-        
-        while (q.size() > 1) {
-            int n = q.size()-1;
-            for (; n>0; --n) {
-                int f = q.front();
-                q.pop();
-                q.push((f + q.front()) % 10);
+        int n = nums.size();
+        for (int i=n-2; i>=0; --i) {
+            for (int j=0; j<=i; ++j) {
+                nums[j] = (nums[j] + nums[j+1]) % 10;
             }
-            q.pop();
         }
 
-        return q.front();
+        return nums[0];
     }
 };
