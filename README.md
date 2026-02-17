@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/ChanHaoHao/Leetcode/tree/master/0383-ransom-note) |
 | [0392-is-subsequence](https://github.com/ChanHaoHao/Leetcode/tree/master/0392-is-subsequence) |
 | [0696-count-binary-substrings](https://github.com/ChanHaoHao/Leetcode/tree/master/0696-count-binary-substrings) |
+| [0767-reorganize-string](https://github.com/ChanHaoHao/Leetcode/tree/master/0767-reorganize-string) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/ChanHaoHao/Leetcode/tree/master/0926-flip-string-to-monotone-increasing) |
 | [0952-word-subsets](https://github.com/ChanHaoHao/Leetcode/tree/master/0952-word-subsets) |
 | [1502-construct-k-palindrome-strings](https://github.com/ChanHaoHao/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/ChanHaoHao/Leetcode/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ChanHaoHao/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0645-set-mismatch](https://github.com/ChanHaoHao/Leetcode/tree/master/0645-set-mismatch) |
+| [0767-reorganize-string](https://github.com/ChanHaoHao/Leetcode/tree/master/0767-reorganize-string) |
 | [0874-walking-robot-simulation](https://github.com/ChanHaoHao/Leetcode/tree/master/0874-walking-robot-simulation) |
 | [0952-word-subsets](https://github.com/ChanHaoHao/Leetcode/tree/master/0952-word-subsets) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/ChanHaoHao/Leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -181,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/ChanHaoHao/Leetcode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ChanHaoHao/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ChanHaoHao/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
+| [0767-reorganize-string](https://github.com/ChanHaoHao/Leetcode/tree/master/0767-reorganize-string) |
 | [1382-balance-a-binary-search-tree](https://github.com/ChanHaoHao/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1502-construct-k-palindrome-strings](https://github.com/ChanHaoHao/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1975-maximum-matrix-sum](https://github.com/ChanHaoHao/Leetcode/tree/master/1975-maximum-matrix-sum) |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/ChanHaoHao/Leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/ChanHaoHao/Leetcode/tree/master/0383-ransom-note) |
+| [0767-reorganize-string](https://github.com/ChanHaoHao/Leetcode/tree/master/0767-reorganize-string) |
 | [1502-construct-k-palindrome-strings](https://github.com/ChanHaoHao/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ChanHaoHao/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3713-longest-balanced-substring-i](https://github.com/ChanHaoHao/Leetcode/tree/master/3713-longest-balanced-substring-i) |
@@ -226,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0274-h-index](https://github.com/ChanHaoHao/Leetcode/tree/master/0274-h-index) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ChanHaoHao/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0645-set-mismatch](https://github.com/ChanHaoHao/Leetcode/tree/master/0645-set-mismatch) |
+| [0767-reorganize-string](https://github.com/ChanHaoHao/Leetcode/tree/master/0767-reorganize-string) |
 | [0853-car-fleet](https://github.com/ChanHaoHao/Leetcode/tree/master/0853-car-fleet) |
 | [0973-k-closest-points-to-origin](https://github.com/ChanHaoHao/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1094-car-pooling](https://github.com/ChanHaoHao/Leetcode/tree/master/1094-car-pooling) |
@@ -326,6 +331,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0767-reorganize-string](https://github.com/ChanHaoHao/Leetcode/tree/master/0767-reorganize-string) |
 | [0973-k-closest-points-to-origin](https://github.com/ChanHaoHao/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1094-car-pooling](https://github.com/ChanHaoHao/Leetcode/tree/master/1094-car-pooling) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ChanHaoHao/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
