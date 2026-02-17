@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0994-rotting-oranges](https://github.com/ChanHaoHao/Leetcode/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/ChanHaoHao/Leetcode/tree/master/1091-shortest-path-in-binary-matrix) |
 | [1094-car-pooling](https://github.com/ChanHaoHao/Leetcode/tree/master/1094-car-pooling) |
+| [1266-minimum-time-visiting-all-points](https://github.com/ChanHaoHao/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/ChanHaoHao/Leetcode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/ChanHaoHao/Leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/ChanHaoHao/Leetcode/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -270,6 +271,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0202-happy-number](https://github.com/ChanHaoHao/Leetcode/tree/master/0202-happy-number) |
 | [0973-k-closest-points-to-origin](https://github.com/ChanHaoHao/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1041-robot-bounded-in-circle](https://github.com/ChanHaoHao/Leetcode/tree/master/1041-robot-bounded-in-circle) |
+| [1266-minimum-time-visiting-all-points](https://github.com/ChanHaoHao/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/ChanHaoHao/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/ChanHaoHao/Leetcode/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/ChanHaoHao/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -470,6 +472,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0973-k-closest-points-to-origin](https://github.com/ChanHaoHao/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1266-minimum-time-visiting-all-points](https://github.com/ChanHaoHao/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
 ## Quickselect
 |  |
 | ------- |
