@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0767-reorganize-string](https://github.com/ChanHaoHao/Leetcode/tree/master/0767-reorganize-string) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/ChanHaoHao/Leetcode/tree/master/0926-flip-string-to-monotone-increasing) |
 | [0952-word-subsets](https://github.com/ChanHaoHao/Leetcode/tree/master/0952-word-subsets) |
+| [1041-robot-bounded-in-circle](https://github.com/ChanHaoHao/Leetcode/tree/master/1041-robot-bounded-in-circle) |
 | [1502-construct-k-palindrome-strings](https://github.com/ChanHaoHao/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ChanHaoHao/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ChanHaoHao/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ChanHaoHao/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ChanHaoHao/Leetcode/tree/master/0202-happy-number) |
 | [0973-k-closest-points-to-origin](https://github.com/ChanHaoHao/Leetcode/tree/master/0973-k-closest-points-to-origin) |
+| [1041-robot-bounded-in-circle](https://github.com/ChanHaoHao/Leetcode/tree/master/1041-robot-bounded-in-circle) |
 | [1817-calculate-money-in-leetcode-bank](https://github.com/ChanHaoHao/Leetcode/tree/master/1817-calculate-money-in-leetcode-bank) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/ChanHaoHao/Leetcode/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [2221-find-triangular-sum-of-an-array](https://github.com/ChanHaoHao/Leetcode/tree/master/2221-find-triangular-sum-of-an-array) |
@@ -366,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/ChanHaoHao/Leetcode/tree/master/0289-game-of-life) |
 | [0832-flipping-an-image](https://github.com/ChanHaoHao/Leetcode/tree/master/0832-flipping-an-image) |
 | [0874-walking-robot-simulation](https://github.com/ChanHaoHao/Leetcode/tree/master/0874-walking-robot-simulation) |
+| [1041-robot-bounded-in-circle](https://github.com/ChanHaoHao/Leetcode/tree/master/1041-robot-bounded-in-circle) |
 | [1094-car-pooling](https://github.com/ChanHaoHao/Leetcode/tree/master/1094-car-pooling) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/ChanHaoHao/Leetcode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1929-concatenation-of-array](https://github.com/ChanHaoHao/Leetcode/tree/master/1929-concatenation-of-array) |
