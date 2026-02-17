@@ -1,37 +1,20 @@
 class Solution:
     def simplifyPath(self, path: str) -> str:
-        paths = []
-        i, n, dots = 0, len(path), 0
+        sub_paths = []
+        split_paths = path.split('/')
 
-        sub_path = ""
-        while i<n:
-            if path[i]=='/':
-                if dots==2:
-                    if len(sub_path)>dots:
-                        paths.append(sub_path)
-                    elif len(paths)>0:
-                        paths.pop()
-                elif not (dots==1 and len(sub_path)==1) and len(sub_path)>0:
-                    paths.append(sub_path)
-                sub_path = ""
-                dots = 0
+        for split_p in split_paths:
+            if len(split_p) == 0 or split_p == ".":
+                continue
+            elif split_p == "..":
+                if len(sub_paths) > 0:
+                    sub_paths.pop()
             else:
-                if path[i]==".":
-                    dots += 1
-                sub_path += path[i]
-            i += 1
+                sub_paths.append(split_p)
         
-        if dots==2:
-            if len(sub_path)>dots:
-                paths.append(sub_path)
-            elif len(paths)>0:
-                paths.pop()
-        elif not (dots==1 and len(sub_path)==1) and len(sub_path)>0:
-            paths.append(sub_path)
-        
-        ans = "/"
-        for path in paths:
-            ans += path + "/"
-        if len(ans)>1:
-            return ans[:-1]
+        ans = ""
+        for sub_path in sub_paths:
+            ans += "/" + sub_path
+        if len(ans) == 0:
+            return "/"
         return ans
