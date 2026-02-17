@@ -14,7 +14,6 @@ class Solution:
             elif c == 'R':
                 head = (head + 3) % 4
         
-        print(f"{head} {x} {y}")
         if head != 0 or (x == 0 and y == 0):
             return True
         return False
