@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/ChanHaoHao/Leetcode/tree/master/0071-simplify-path) |
 | [0076-minimum-window-substring](https://github.com/ChanHaoHao/Leetcode/tree/master/0076-minimum-window-substring) |
 | [0079-word-search](https://github.com/ChanHaoHao/Leetcode/tree/master/0079-word-search) |
+| [0125-valid-palindrome](https://github.com/ChanHaoHao/Leetcode/tree/master/0125-valid-palindrome) |
 | [0126-word-ladder-ii](https://github.com/ChanHaoHao/Leetcode/tree/master/0126-word-ladder-ii) |
 | [0151-reverse-words-in-a-string](https://github.com/ChanHaoHao/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/ChanHaoHao/Leetcode/tree/master/0205-isomorphic-strings) |
@@ -221,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/ChanHaoHao/Leetcode/tree/master/0015-3sum) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/ChanHaoHao/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0088-merge-sorted-array](https://github.com/ChanHaoHao/Leetcode/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/ChanHaoHao/Leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/ChanHaoHao/Leetcode/tree/master/0151-reverse-words-in-a-string) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChanHaoHao/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/ChanHaoHao/Leetcode/tree/master/0189-rotate-array) |
