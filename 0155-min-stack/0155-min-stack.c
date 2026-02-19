@@ -4,57 +4,64 @@
 typedef struct {
     int capacity;
     int top;
-    int* array;
-    int* minarray;
+    int* minstack;
+    int* stack;
 } MinStack;
 
 
 MinStack* minStackCreate() {
     MinStack* minstack = (MinStack*)malloc(sizeof(MinStack));
-    minstack->capacity = 4;
+    minstack->capacity = 10;
     minstack->top = -1;
-    minstack->array = (int*)malloc(minstack->capacity * sizeof(int));
-    minstack->minarray = (int*)malloc(minstack->capacity * sizeof(int));
+    minstack->minstack = (int*)malloc(minstack->capacity * sizeof(int));
+    minstack->stack = (int*)malloc(minstack->capacity * sizeof(int));
 
     return minstack;
 }
 
 void minStackPush(MinStack* obj, int val) {
+    // Check if the stack is full
     if (obj->top == obj->capacity-1) {
         obj->capacity *= 2;
-        obj->array = (int*)realloc(obj->array, obj->capacity * sizeof(int));
-        obj->minarray = (int*)realloc(obj->minarray, obj->capacity * sizeof(int));
+        obj->minstack = (int*)realloc(obj->minstack, obj->capacity * sizeof(int));
+        obj->stack = (int*)realloc(obj->stack, obj->capacity * sizeof(int));
     }
-
-    obj->array[obj->top+1] = val;
-    if (obj->top == -1)
-        obj->minarray[obj->top+1] = val;
+    obj->stack[obj->top+1] = val;
+    // if the stack is empty
+    if (obj->top == -1) {
+        obj->minstack[obj->top+1] = val;
+    }
     else {
-        obj->minarray[obj->top+1] = fmin(obj->minarray[obj->top], val);
+        obj->minstack[obj->top+1] = fmin(obj->minstack[obj->top], val);
     }
     obj->top++;
 }
 
 void minStackPop(MinStack* obj) {
     if (obj->top == -1) {
-        printf("The minStack is empty!\n");
+        printf("The stack is empty!\n");
+        return;
     }
-    else {
-        obj->top--;
-    }
+
+    obj->top--;
 }
 
 int minStackTop(MinStack* obj) {
-    return obj->array[obj->top];
+    if (obj->top == -1)
+        return INT_MIN;
+    return obj->stack[obj->top];
 }
 
 int minStackGetMin(MinStack* obj) {
-    return obj->minarray[obj->top];
+    if (obj->top == -1)
+        return INT_MIN;
+    return obj->minstack[obj->top];
 }
 
 void minStackFree(MinStack* obj) {
-    free(obj->array);
-    free(obj->minarray);
+    free(obj->minstack);
+    free(obj->stack);
+    free(obj);
 }
 
 /**
