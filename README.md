@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0057-insert-interval](https://github.com/ChanHaoHao/Leetcode/tree/master/0057-insert-interval) |
 | [0068-text-justification](https://github.com/ChanHaoHao/Leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/ChanHaoHao/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/ChanHaoHao/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/ChanHaoHao/Leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/ChanHaoHao/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ChanHaoHao/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/ChanHaoHao/Leetcode/tree/master/0036-valid-sudoku) |
 | [0073-set-matrix-zeroes](https://github.com/ChanHaoHao/Leetcode/tree/master/0073-set-matrix-zeroes) |
+| [0074-search-a-2d-matrix](https://github.com/ChanHaoHao/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/ChanHaoHao/Leetcode/tree/master/0079-word-search) |
 | [0130-surrounded-regions](https://github.com/ChanHaoHao/Leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/ChanHaoHao/Leetcode/tree/master/0200-number-of-islands) |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/ChanHaoHao/Leetcode/tree/master/0069-sqrtx) |
+| [0074-search-a-2d-matrix](https://github.com/ChanHaoHao/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0099-recover-binary-search-tree](https://github.com/ChanHaoHao/Leetcode/tree/master/0099-recover-binary-search-tree) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/ChanHaoHao/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/ChanHaoHao/Leetcode/tree/master/0704-binary-search) |
