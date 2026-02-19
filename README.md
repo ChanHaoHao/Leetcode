@@ -261,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/ChanHaoHao/Leetcode/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/ChanHaoHao/Leetcode/tree/master/0071-simplify-path) |
 | [0094-binary-tree-inorder-traversal](https://github.com/ChanHaoHao/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0155-min-stack](https://github.com/ChanHaoHao/Leetcode/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/ChanHaoHao/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0853-car-fleet](https://github.com/ChanHaoHao/Leetcode/tree/master/0853-car-fleet) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/ChanHaoHao/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
@@ -513,6 +514,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/ChanHaoHao/Leetcode/tree/master/0146-lru-cache) |
+| [0155-min-stack](https://github.com/ChanHaoHao/Leetcode/tree/master/0155-min-stack) |
 ## Doubly-Linked List
 |  |
 | ------- |
