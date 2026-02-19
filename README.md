@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0068-text-justification](https://github.com/ChanHaoHao/Leetcode/tree/master/0068-text-justification) |
 | [0073-set-matrix-zeroes](https://github.com/ChanHaoHao/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ChanHaoHao/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0078-subsets](https://github.com/ChanHaoHao/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ChanHaoHao/Leetcode/tree/master/0079-word-search) |
 | [0088-merge-sorted-array](https://github.com/ChanHaoHao/Leetcode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ChanHaoHao/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -301,6 +302,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ChanHaoHao/Leetcode/tree/master/0078-subsets) |
 | [0645-set-mismatch](https://github.com/ChanHaoHao/Leetcode/tree/master/0645-set-mismatch) |
 | [0832-flipping-an-image](https://github.com/ChanHaoHao/Leetcode/tree/master/0832-flipping-an-image) |
 | [2509-minimize-xor](https://github.com/ChanHaoHao/Leetcode/tree/master/2509-minimize-xor) |
@@ -448,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0078-subsets](https://github.com/ChanHaoHao/Leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/ChanHaoHao/Leetcode/tree/master/0079-word-search) |
 | [0126-word-ladder-ii](https://github.com/ChanHaoHao/Leetcode/tree/master/0126-word-ladder-ii) |
 ## Tree
