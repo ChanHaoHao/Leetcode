@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/ChanHaoHao/Leetcode/tree/master/0485-max-consecutive-ones) |
 | [0645-set-mismatch](https://github.com/ChanHaoHao/Leetcode/tree/master/0645-set-mismatch) |
 | [0704-binary-search](https://github.com/ChanHaoHao/Leetcode/tree/master/0704-binary-search) |
+| [0739-daily-temperatures](https://github.com/ChanHaoHao/Leetcode/tree/master/0739-daily-temperatures) |
 | [0832-flipping-an-image](https://github.com/ChanHaoHao/Leetcode/tree/master/0832-flipping-an-image) |
 | [0853-car-fleet](https://github.com/ChanHaoHao/Leetcode/tree/master/0853-car-fleet) |
 | [0874-walking-robot-simulation](https://github.com/ChanHaoHao/Leetcode/tree/master/0874-walking-robot-simulation) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/ChanHaoHao/Leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0155-min-stack](https://github.com/ChanHaoHao/Leetcode/tree/master/0155-min-stack) |
 | [0227-basic-calculator-ii](https://github.com/ChanHaoHao/Leetcode/tree/master/0227-basic-calculator-ii) |
+| [0739-daily-temperatures](https://github.com/ChanHaoHao/Leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/ChanHaoHao/Leetcode/tree/master/0853-car-fleet) |
 | [2221-check-if-a-parentheses-string-can-be-valid](https://github.com/ChanHaoHao/Leetcode/tree/master/2221-check-if-a-parentheses-string-can-be-valid) |
 ## Math
@@ -514,6 +516,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [0739-daily-temperatures](https://github.com/ChanHaoHao/Leetcode/tree/master/0739-daily-temperatures) |
 | [0853-car-fleet](https://github.com/ChanHaoHao/Leetcode/tree/master/0853-car-fleet) |
 ## Union-Find
 |  |
