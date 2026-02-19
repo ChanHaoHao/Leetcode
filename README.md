@@ -506,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/ChanHaoHao/Leetcode/tree/master/0200-number-of-islands) |
 | [1631-path-with-minimum-effort](https://github.com/ChanHaoHao/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ChanHaoHao/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 ## Linked List
