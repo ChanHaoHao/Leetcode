@@ -12,7 +12,7 @@ public:
             return;
         }
 
-        for (int j=i; j<=n; ++j) {
+        for (int j=i; j<=n-(k-subset.size())+1; ++j) {
             subset.push_back(j);
             backtrack(n, k, j+1, subset);
             subset.pop_back();
