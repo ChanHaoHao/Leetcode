@@ -1,25 +1,26 @@
 class Solution:
     def combinationSum2(self, candidates: List[int], target: int) -> List[List[int]]:
-        # sort the candidates so we can exclude the same number
+        # first sort the array to prevent duplicate
         candidates.sort()
-        
+
         ans = []
 
-        def dfs(i, combination):
-            if sum(combination)==target:
-                ans.append(combination.copy())
+        def backtrack(i, remain, subset):
+            if remain == 0:
+                ans.append(subset.copy())
                 return
-
-            if i==len(candidates) or sum(combination)>target:
+            
+            if i == len(candidates) or remain < 0:
                 return
+            
+            subset.append(candidates[i])
+            backtrack(i+1, remain-candidates[i], subset)
+            subset.pop()
 
-            combination.append(candidates[i])
-            dfs(i+1, combination)
-            combination.pop()
-
-            while i+1<len(candidates) and candidates[i]==candidates[i+1]:
-                i+=1
-            dfs(i+1, combination)
+            i += 1
+            while i < len(candidates) and candidates[i] == candidates[i-1]:
+                i += 1
+            backtrack(i, remain, subset)
         
-        dfs(0, [])
+        backtrack(0, target, [])
         return ans
