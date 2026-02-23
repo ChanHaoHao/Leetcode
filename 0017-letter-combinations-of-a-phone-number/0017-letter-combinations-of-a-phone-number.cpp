@@ -1,34 +1,30 @@
 class Solution {
 public:
-    void backtracking(string digits, int digit, string combination, vector<string>& ans, unordered_map<char, vector<char>>& dict)
-    {
-        if (digit==digits.length())
-        {
-            ans.push_back(combination);
+    void backtrack(unordered_map<char, vector<char>>& mp, string& digits, int i, string substr, vector<string>& ans) {
+        if (i == digits.length()) {
+            ans.push_back(substr);
             return;
         }
-        
-        vector<char> candidates = dict[digits[digit]];
-        for (auto i : candidates)
-        {
-            backtracking(digits, digit+1, combination+i, ans, dict);
-        }
 
-        return;
+        for (auto c: mp[digits[i]]) {
+            string tmp = substr + c;
+            backtrack(mp, digits, i+1, tmp, ans);
+        }
     }
 
-    vector<string> letterCombinations(string digits) { 
+    vector<string> letterCombinations(string digits) {
+        unordered_map<char, vector<char>> mp;
+        mp['2'] = {'a', 'b', 'c'};
+        mp['3'] = {'d', 'e', 'f'};
+        mp['4'] = {'g', 'h', 'i'};
+        mp['5'] = {'j', 'k', 'l'};
+        mp['6'] = {'m', 'n', 'o'};
+        mp['7'] = {'p', 'q', 'r', 's'};
+        mp['8'] = {'t', 'u', 'v'};
+        mp['9'] = {'w', 'x', 'y', 'z'};
+
         vector<string> ans;
-        int n = digits.length();
-        if (n==0)
-            return ans;
-
-        unordered_map<char, vector<char>> dict = {{'2', {'a', 'b', 'c'}}, {'3', {'d', 'e', 'f'}},
-                                                {'4', {'g', 'h', 'i'}}, {'5', {'j', 'k', 'l'}},
-                                                {'6', {'m', 'n', 'o'}}, {'7', {'p', 'q', 'r', 's'}},
-                                                {'8', {'t', 'u', 'v'}}, {'9', {'w', 'x', 'y', 'z'}}};
-
-        backtracking(digits, 0, "", ans, dict);
+        backtrack(mp, digits, 0, "", ans);
 
         return ans;
     }
