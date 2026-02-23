@@ -1,19 +1,21 @@
 class Solution {
 public:
-    vector<vector<int>> permute(vector<int>& nums) {
-        vector<vector<int>> ans = {{}};
-
-        for (int i=0; i<nums.size(); ++i) {
-            vector<vector<int>> new_perms;
-            for (auto perm: ans) {
-                for (int it=0; it<=perm.size(); ++it) {
-                    vector<int> p = perm;
-                    p.insert(p.begin()+it, nums[i]);
-                    new_perms.push_back(p);
-                } 
-            }
-            ans = new_perms;
+    void backtrack(vector<int>& nums, int start, vector<vector<int>>& ans) {
+        if (start == nums.size()) {
+            ans.push_back(nums);
+            return;
         }
+
+        for (int i=start; i<nums.size(); ++i) {
+            swap(nums[i], nums[start]);
+            backtrack(nums, start+1, ans);
+            swap(nums[i], nums[start]);
+        }
+    }
+
+    vector<vector<int>> permute(vector<int>& nums) {
+        vector<vector<int>> ans;
+        backtrack(nums, 0, ans);
 
         return ans;
     }
