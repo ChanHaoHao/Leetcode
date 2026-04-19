@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/ChanHaoHao/Leetcode/tree/master/1470-shuffle-the-array) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ChanHaoHao/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1631-path-with-minimum-effort](https://github.com/ChanHaoHao/Leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/ChanHaoHao/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ChanHaoHao/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1929-concatenation-of-array](https://github.com/ChanHaoHao/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1975-maximum-matrix-sum](https://github.com/ChanHaoHao/Leetcode/tree/master/1975-maximum-matrix-sum) |
@@ -238,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/ChanHaoHao/Leetcode/tree/master/0392-is-subsequence) |
 | [0696-count-binary-substrings](https://github.com/ChanHaoHao/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0832-flipping-an-image](https://github.com/ChanHaoHao/Leetcode/tree/master/0832-flipping-an-image) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/ChanHaoHao/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Sorting
 |  |
 | ------- |
@@ -495,6 +497,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/ChanHaoHao/Leetcode/tree/master/0875-koko-eating-bananas) |
 | [1382-balance-a-binary-search-tree](https://github.com/ChanHaoHao/Leetcode/tree/master/1382-balance-a-binary-search-tree) |
 | [1631-path-with-minimum-effort](https://github.com/ChanHaoHao/Leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1855-maximum-distance-between-a-pair-of-values](https://github.com/ChanHaoHao/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
 ## Counting Sort
 |  |
 | ------- |
