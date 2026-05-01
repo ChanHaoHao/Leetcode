@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0289-game-of-life](https://github.com/ChanHaoHao/Leetcode/tree/master/0289-game-of-life) |
 | [0322-coin-change](https://github.com/ChanHaoHao/Leetcode/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/ChanHaoHao/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0396-rotate-function](https://github.com/ChanHaoHao/Leetcode/tree/master/0396-rotate-function) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/ChanHaoHao/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ChanHaoHao/Leetcode/tree/master/0452-minimum-number-of-arrows-to-burst-balloons) |
 | [0485-max-consecutive-ones](https://github.com/ChanHaoHao/Leetcode/tree/master/0485-max-consecutive-ones) |
@@ -296,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/ChanHaoHao/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/ChanHaoHao/Leetcode/tree/master/0202-happy-number) |
 | [0227-basic-calculator-ii](https://github.com/ChanHaoHao/Leetcode/tree/master/0227-basic-calculator-ii) |
+| [0396-rotate-function](https://github.com/ChanHaoHao/Leetcode/tree/master/0396-rotate-function) |
 | [0973-k-closest-points-to-origin](https://github.com/ChanHaoHao/Leetcode/tree/master/0973-k-closest-points-to-origin) |
 | [1041-robot-bounded-in-circle](https://github.com/ChanHaoHao/Leetcode/tree/master/1041-robot-bounded-in-circle) |
 | [1266-minimum-time-visiting-all-points](https://github.com/ChanHaoHao/Leetcode/tree/master/1266-minimum-time-visiting-all-points) |
@@ -328,6 +330,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/ChanHaoHao/Leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0322-coin-change](https://github.com/ChanHaoHao/Leetcode/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/ChanHaoHao/Leetcode/tree/master/0392-is-subsequence) |
+| [0396-rotate-function](https://github.com/ChanHaoHao/Leetcode/tree/master/0396-rotate-function) |
 | [0926-flip-string-to-monotone-increasing](https://github.com/ChanHaoHao/Leetcode/tree/master/0926-flip-string-to-monotone-increasing) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/ChanHaoHao/Leetcode/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/ChanHaoHao/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
