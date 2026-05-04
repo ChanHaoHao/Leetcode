@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/ChanHaoHao/Leetcode/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/ChanHaoHao/Leetcode/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/ChanHaoHao/Leetcode/tree/master/0046-permutations) |
+| [0048-rotate-image](https://github.com/ChanHaoHao/Leetcode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/ChanHaoHao/Leetcode/tree/master/0049-group-anagrams) |
 | [0053-maximum-subarray](https://github.com/ChanHaoHao/Leetcode/tree/master/0053-maximum-subarray) |
 | [0055-jump-game](https://github.com/ChanHaoHao/Leetcode/tree/master/0055-jump-game) |
@@ -293,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0012-integer-to-roman](https://github.com/ChanHaoHao/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/ChanHaoHao/Leetcode/tree/master/0013-roman-to-integer) |
+| [0048-rotate-image](https://github.com/ChanHaoHao/Leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/ChanHaoHao/Leetcode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/ChanHaoHao/Leetcode/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/ChanHaoHao/Leetcode/tree/master/0070-climbing-stairs) |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/ChanHaoHao/Leetcode/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/ChanHaoHao/Leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/ChanHaoHao/Leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/ChanHaoHao/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0079-word-search](https://github.com/ChanHaoHao/Leetcode/tree/master/0079-word-search) |
