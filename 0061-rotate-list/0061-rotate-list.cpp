@@ -11,19 +11,19 @@
 class Solution {
 public:
     ListNode* rotateRight(ListNode* head, int k) {
-        if (head == nullptr) return head;
+        // If the head is empty or the lenght of the linked list is 1
+        if (head == nullptr || head->next == nullptr) return head;
         // Find the length and the end of the listnode
         ListNode* end=head;
-        ListNode* prev;
-        int count = 0;
-        while (end != nullptr) {
+        int count = 1;
+        while (end->next != nullptr) {
             count += 1;
-            prev = end;
             end = end->next;
         }
 
         k = k % count;
-        if (k == 0 || count == 1) return head;
+        // If no rotation is needed
+        if (k == 0) return head;
 
         // Find the starting node
         ListNode* dummy = head;
@@ -32,7 +32,7 @@ public:
         }
         ListNode* new_start = dummy->next;
         dummy->next = nullptr;
-        prev->next = head;
+        end->next = head;
 
         return new_start;
     }
