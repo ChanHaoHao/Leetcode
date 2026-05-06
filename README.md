@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ChanHaoHao/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1631-path-with-minimum-effort](https://github.com/ChanHaoHao/Leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ChanHaoHao/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/ChanHaoHao/Leetcode/tree/master/1861-rotating-the-box) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/ChanHaoHao/Leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1929-concatenation-of-array](https://github.com/ChanHaoHao/Leetcode/tree/master/1929-concatenation-of-array) |
 | [1975-maximum-matrix-sum](https://github.com/ChanHaoHao/Leetcode/tree/master/1975-maximum-matrix-sum) |
@@ -245,6 +246,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/ChanHaoHao/Leetcode/tree/master/0696-count-binary-substrings) |
 | [0832-flipping-an-image](https://github.com/ChanHaoHao/Leetcode/tree/master/0832-flipping-an-image) |
 | [1855-maximum-distance-between-a-pair-of-values](https://github.com/ChanHaoHao/Leetcode/tree/master/1855-maximum-distance-between-a-pair-of-values) |
+| [1861-rotating-the-box](https://github.com/ChanHaoHao/Leetcode/tree/master/1861-rotating-the-box) |
 ## Sorting
 |  |
 | ------- |
@@ -396,6 +398,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1293-shortest-path-in-a-grid-with-obstacles-elimination](https://github.com/ChanHaoHao/Leetcode/tree/master/1293-shortest-path-in-a-grid-with-obstacles-elimination) |
 | [1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid](https://github.com/ChanHaoHao/Leetcode/tree/master/1485-minimum-cost-to-make-at-least-one-valid-path-in-a-grid) |
 | [1631-path-with-minimum-effort](https://github.com/ChanHaoHao/Leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1861-rotating-the-box](https://github.com/ChanHaoHao/Leetcode/tree/master/1861-rotating-the-box) |
 | [1975-maximum-matrix-sum](https://github.com/ChanHaoHao/Leetcode/tree/master/1975-maximum-matrix-sum) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/ChanHaoHao/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3822-fill-a-special-grid](https://github.com/ChanHaoHao/Leetcode/tree/master/3822-fill-a-special-grid) |
