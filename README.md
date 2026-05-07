@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ChanHaoHao/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ChanHaoHao/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/ChanHaoHao/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
+| [3660-jump-game-ix](https://github.com/ChanHaoHao/Leetcode/tree/master/3660-jump-game-ix) |
 | [3822-fill-a-special-grid](https://github.com/ChanHaoHao/Leetcode/tree/master/3822-fill-a-special-grid) |
 | [3849-equal-sum-grid-partition-i](https://github.com/ChanHaoHao/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 | [4045-longest-balanced-subarray-i](https://github.com/ChanHaoHao/Leetcode/tree/master/4045-longest-balanced-subarray-i) |
@@ -341,6 +342,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0926-flip-string-to-monotone-increasing](https://github.com/ChanHaoHao/Leetcode/tree/master/0926-flip-string-to-monotone-increasing) |
 | [1884-egg-drop-with-2-eggs-and-n-floors](https://github.com/ChanHaoHao/Leetcode/tree/master/1884-egg-drop-with-2-eggs-and-n-floors) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/ChanHaoHao/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
+| [3660-jump-game-ix](https://github.com/ChanHaoHao/Leetcode/tree/master/3660-jump-game-ix) |
 ## Brainteaser
 |  |
 | ------- |
