@@ -11,20 +11,16 @@ public:
             }
         }
 
-        std::vector<pair<int, int>> topK;
+        std::vector<int> ans;
         while (!pq.empty()) {
-            topK.push_back(pq.top());
+            ans.push_back(pq.top().second);
             pq.pop();
         }
 
-        std::sort(topK.begin(), topK.end(), [](const pair<int, int>& a, const pair<int, int>& b) { 
-            return a.second < b.second;
-        });
-        std::vector<int> ans;
-        for (const auto& k: topK) {
-            ans.push_back(k.first);
+        std::sort(ans.begin(), ans.end());
+        for (int i=0; i<ans.size(); ++i) {
+            ans[i] = nums[ans[i]];
         }
-
         return ans;
     }
 };
