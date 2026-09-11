@@ -81,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3309-count-prefix-and-suffix-pairs-i](https://github.com/ChanHaoHao/Leetcode/tree/master/3309-count-prefix-and-suffix-pairs-i) |
 | [3418-maximum-amount-of-money-robot-can-earn](https://github.com/ChanHaoHao/Leetcode/tree/master/3418-maximum-amount-of-money-robot-can-earn) |
 | [3432-count-partitions-with-even-sum-difference](https://github.com/ChanHaoHao/Leetcode/tree/master/3432-count-partitions-with-even-sum-difference) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ChanHaoHao/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3577-count-the-number-of-computer-unlocking-permutations](https://github.com/ChanHaoHao/Leetcode/tree/master/3577-count-the-number-of-computer-unlocking-permutations) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ChanHaoHao/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3620-maximum-number-of-distinct-elements-after-operations](https://github.com/ChanHaoHao/Leetcode/tree/master/3620-maximum-number-of-distinct-elements-after-operations) |
@@ -198,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2215-finding-3-digit-even-numbers](https://github.com/ChanHaoHao/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ChanHaoHao/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ChanHaoHao/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ChanHaoHao/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/ChanHaoHao/Leetcode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3713-longest-balanced-substring-i](https://github.com/ChanHaoHao/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3871-minimum-deletions-for-at-most-k-distinct-characters](https://github.com/ChanHaoHao/Leetcode/tree/master/3871-minimum-deletions-for-at-most-k-distinct-characters) |
@@ -433,6 +435,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1747-lexicographically-smallest-string-after-applying-operations](https://github.com/ChanHaoHao/Leetcode/tree/master/1747-lexicographically-smallest-string-after-applying-operations) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ChanHaoHao/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ChanHaoHao/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3713-longest-balanced-substring-i](https://github.com/ChanHaoHao/Leetcode/tree/master/3713-longest-balanced-substring-i) |
 | [3849-equal-sum-grid-partition-i](https://github.com/ChanHaoHao/Leetcode/tree/master/3849-equal-sum-grid-partition-i) |
 | [4020-lexicographically-smallest-permutation-greater-than-target](https://github.com/ChanHaoHao/Leetcode/tree/master/4020-lexicographically-smallest-permutation-greater-than-target) |
@@ -586,4 +589,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/ChanHaoHao/Leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/ChanHaoHao/Leetcode/tree/master/0206-reverse-linked-list) |
+| [3483-unique-3-digit-even-numbers](https://github.com/ChanHaoHao/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
 <!---LeetCode Topics End-->
