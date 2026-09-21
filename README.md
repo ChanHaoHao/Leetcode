@@ -197,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-construct-k-palindrome-strings](https://github.com/ChanHaoHao/Leetcode/tree/master/1502-construct-k-palindrome-strings) |
 | [2099-find-subsequence-of-length-k-with-the-largest-sum](https://github.com/ChanHaoHao/Leetcode/tree/master/2099-find-subsequence-of-length-k-with-the-largest-sum) |
 | [2215-finding-3-digit-even-numbers](https://github.com/ChanHaoHao/Leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2374-node-with-highest-edge-score](https://github.com/ChanHaoHao/Leetcode/tree/master/2374-node-with-highest-edge-score) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/ChanHaoHao/Leetcode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3455-minimum-length-of-string-after-operations](https://github.com/ChanHaoHao/Leetcode/tree/master/3455-minimum-length-of-string-after-operations) |
 | [3483-unique-3-digit-even-numbers](https://github.com/ChanHaoHao/Leetcode/tree/master/3483-unique-3-digit-even-numbers) |
@@ -547,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0207-course-schedule](https://github.com/ChanHaoHao/Leetcode/tree/master/0207-course-schedule) |
 | [1971-find-if-path-exists-in-graph](https://github.com/ChanHaoHao/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2374-node-with-highest-edge-score](https://github.com/ChanHaoHao/Leetcode/tree/master/2374-node-with-highest-edge-score) |
 ## Topological Sort
 |  |
 | ------- |
